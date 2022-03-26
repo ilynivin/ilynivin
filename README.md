@@ -34,6 +34,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 
 <details>
   <summary> ⚡ Recent GitHub Activitys </summary>
+ 
 <!--START_SECTION:activity-->
  
   </details>
