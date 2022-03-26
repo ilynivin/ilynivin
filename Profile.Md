@@ -8,7 +8,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
  - 🔭 I’m currently working on Community Projects and My Website
 - 🌱 I’m currently learning Java Script and Ruby
 - 💬 Ask me about App development and Game development  
-- 📫 How to reach me: nivinsvysakh65@gmail.com and my Discord Server ! or you can [tweet](https://twitter.com/castor_8586) me 
+- 📫 How to reach me: Discord Server ! or you can [tweet](https://twitter.com/OfficialMightyP) me 
 - ⚡ Fun fact: I like to Make my App
   
 
