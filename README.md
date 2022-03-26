@@ -32,12 +32,12 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 ![icons8-html-5-64](https://user-images.githubusercontent.com/83283137/119496602-46220e80-bd81-11eb-9d7f-1f67a3384152.png)
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-<details>
-  <summary> ⚡ Recent GitHub Activitys </summary>
- 
+## Activity Github 
+
 <!--START_SECTION:activity-->
- 
-  </details>
+
+--- 
+## More !
 
 <details>
   <summary> ⚡ Spotify Now playing</summary>
