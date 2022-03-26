@@ -16,7 +16,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/OfficialMightyP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="castor_8586" height="30" width="40" /></a> 
-<a href="https://discord.gg/F9snAX65Db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SRgKYjyREP" height="30" width="40" /></a>
+<a href="https://discord.com/users/930080426826010654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SRgKYjyREP" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
