@@ -48,10 +48,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 
 <details>
   <summary> ⚡ Status </summary>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivinsvysakh&show_icons=true&locale=en&layout=compact" alt="nivinsvysakh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivinsvysakh&" alt="nivinsvysakh" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MightyPlays&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## My GitHub metrics
 ![GitHub metrics](https://metrics.lecoq.io/nivinsvysakh)
@@ -61,17 +58,6 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 </details>
 
   </details>
-
-
-
-
-## Discover my other repositorys
-- The Dino game = [The Dino game](https://github.com/nivinsvysakh/The-Dino-game-)
-- FAIRY-AND-STAR- = [FAIRY-AND-STAR](https://github.com/nivinsvysakh/FAIRY-AND-STAR-)
-- The-jumping-box- = [The-jumping-box](https://github.com/nivinsvysakh/The-jumping-box-)
-- The-Cycle-Race-Game = [The-Cycle-Race-Game](https://github.com/nivinsvysakh/The-Cycle-Race-Game-)
-- The-Fruit-Ninja = [The-Fruit-Ninja](https://github.com/nivinsvysakh/The-Fruit-Ninja-)
-- plucking-Mangos = [plucking-Mangos](https://github.com/nivinsvysakh/plucking-Mangos)
 
 ----
 
