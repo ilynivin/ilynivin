@@ -48,13 +48,13 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 
 <details>
   <summary> ⚡ Status </summary>
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MightyPlays&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## My GitHub metrics
-![GitHub metrics](https://metrics.lecoq.io/nivinsvysakh)
+ 
 
 ## Github badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+ 
 </details>
 
   </details>
