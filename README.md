@@ -35,6 +35,8 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown
 ## Activity Github 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/5cientist/5cientist/issues/1) in [5cientist/5cientist](https://github.com/5cientist/5cientist)
+<!--END_SECTION:activity-->
 
 --- 
 ## More !
