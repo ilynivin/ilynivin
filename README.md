@@ -4,12 +4,12 @@
 ## 👱‍♂️ Adout Me 
 
 
-Skills: JavaScript ,INDEX.HTML ,style.css ,VS code and Markdown 
+Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown 
  - 🔭 I’m currently working on Community Projects and My Website
-- 🌱 I’m currently learning Java Script and Ruby
+- 🌱 I’m currently learning Java Script , ruby and Docker 
 - 💬 Ask me about App development and Game development  
-- 📫 How to reach me: Discord Server ! or you can [tweet](https://twitter.com/OfficialMightyP) me 
-- ⚡ Fun fact: I like to Make my App
+- 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/OfficialMightyP) me 
+- ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
   
 
 
