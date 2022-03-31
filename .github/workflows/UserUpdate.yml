@@ -1,0 +1,2 @@
+- name: Push updates to your profile page
+  uses: umutphp/github-action-dynamic-profile-page@v2
