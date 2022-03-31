@@ -8,6 +8,7 @@
     '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
 ```
+<br />
 
 ### Hi there, I'm Nivin - aka [MightyPlays](https://nivinsvysakh.whjr.site/)👋
 
@@ -22,7 +23,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 - 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/OfficialMightyP) me 
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
   
-
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +31,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 <a href="https://discord.com/users/930080426826010654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SRgKYjyREP" height="30" width="40" /></a>
 </p>
 
+<br />
 <h4 align="left">Languages and Tools:</h4>
 
 ![icons8-visual-studio-code-2019-48](https://user-images.githubusercontent.com/83283137/119604812-4ec02680-be0d-11eb-83f9-c46a7e9345a5.png)
@@ -43,33 +45,40 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 ![icons8-html-5-64](https://user-images.githubusercontent.com/83283137/119496602-46220e80-bd81-11eb-9d7f-1f67a3384152.png)
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-## Activity Github 
+<br />
+
+```
+Activity Github Readme Status
+```
+
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/5cientist/5cientist/issues/1) in [5cientist/5cientist](https://github.com/5cientist/5cientist)
+```
+*1. ❗️ Opened issue [#1](https://github.com/5cientist/5cientist/issues/1) in [5cientist/5cientist](https://github.com/5cientist/5cientist)
+```
 <!--END_SECTION:activity-->
 
---- 
-## More !
+``` 
+Recent Activity
+```
+<!-- START gadpp -->
 
-<details>
-  <summary> ⚡ Spotify Now playing</summary>
+<br />
+
+:musical_note: Spotify Now playing
+
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
   </details>
 
-<details>
-  <summary> ⚡ Status </summary>
- 
+
+<br />
+
+⚡ Status 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MightyPlays&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
- 
 
-## Github badges
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
- 
-</details>
-
-  </details>
+<br /> 
 
 ----
 
@@ -88,3 +97,4 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 </h3>
 
 [Docker]:https://www.docker.com/
+[Readme Status]:https://github.com/jamesgeorge007/github-activity-readme
