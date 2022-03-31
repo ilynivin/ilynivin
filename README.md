@@ -57,9 +57,11 @@ Activity Github Readme Status
 <!--END_SECTION:activity-->
 
 ``` 
+<br />
 Recent Activity
-```
-<!-- START gadpp -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
 
