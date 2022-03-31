@@ -49,13 +49,11 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 
 ```
 Activity Github Readme Status
-```
+
 
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/5cientist/5cientist/issues/1) in [5cientist/5cientist](https://github.com/5cientist/5cientist)
-*1. ❗️ Opened issue [#1](https://github.com/5cientist/5cientist/issues/1) in [5cientist/5cientist](https://github.com/5cientist/5cientist)
-```
 <!--END_SECTION:activity-->
 
 ``` 
