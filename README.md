@@ -56,15 +56,10 @@ Activity Github Readme Status
 
 <!--END_SECTION:activity-->
 
-
 <br />
 
-```
-Recent Activity
-```
-
 <!--START_SECTION:waka-->
-<!--End_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
 
