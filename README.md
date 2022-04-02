@@ -63,6 +63,16 @@ Activity Github Readme Status
 
 <br />
 
+ ```
+ Github Activity
+ ```
+ 
+<!-- START gadpp -->
+ 
+ 
+ 
+<br />
+
 :musical_note: Spotify Now playing
 
 
