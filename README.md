@@ -10,7 +10,7 @@
 ```
 <br />
 
-### Hi there, I'm Nivin - aka [MightyPlays](https://nivinsvysakh.whjr.site/)👋
+### Hi there, I'm [Nivin](https://nivins.in) 👋
 
 
 ## 👱‍♂️ Adout Me 
