@@ -56,22 +56,19 @@ Activity Github Readme Status
 3. 💪 Opened PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
 <!--END_SECTION:activity-->
 
-<br />
+-----
+
+## My Devalopment Status 
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<br />
 
- ```
- Github Activity
- ```
- 
-<!-- START gadpp -->
- 
- 
- 
-<br />
+----
+
+```
+Spotify Now Playing 
+```
+
 
 :musical_note: Spotify Now playing
 
@@ -82,15 +79,19 @@ Activity Github Readme Status
 
 <br />
 
-⚡ Status 
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MightyPlays&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+```
+Some Other Status of My Github 
+```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nivin389&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br /> 
 
 ----
 
-<h1 align="center">Made By MightyPlays 💖</h1>
+<h1 align="center">Made By Nivin 389💖</h1>
 <h3 align="center">
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
