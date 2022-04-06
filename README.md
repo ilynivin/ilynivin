@@ -51,9 +51,9 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 Activity Github Readme Status
 ``` 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
-2. 💪 Opened PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
-3. 🎉 Merged PR [#1](https://github.com/MightyPlays/PortfolioWebsite/pull/1) in [MightyPlays/PortfolioWebsite](https://github.com/MightyPlays/PortfolioWebsite)
+1. ❗️ Opened issue [#1](https://github.com/Milleneon/The-BL0G/issues/1) in [Milleneon/The-BL0G](https://github.com/Milleneon/The-BL0G)
+2. 🎉 Merged PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
+3. 💪 Opened PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
 <!--END_SECTION:activity-->
 
 <br />
