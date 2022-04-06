@@ -61,6 +61,16 @@ Activity Github Readme Status
 ## My Devalopment Status 
 
 <!--START_SECTION:waka-->
+
+```text
+HTML         1 hr 12 mins    █████████████▒░░░░░░░░░░░   53.10 %
+JavaScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+Text         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Markdown     12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+SCSS         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+```
+
 <!--END_SECTION:waka-->
 
 
