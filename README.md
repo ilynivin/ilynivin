@@ -95,7 +95,13 @@ Some Other Status of My Github
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nivin389&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<br /> 
+---
+
+## This is my pet Bob .
+
+**He is a Snake . He needs food . So i have to become active in github . With my active points i can give him food**
+
+![Snake](https://raw.githubusercontent.com/Nivin389/Nivin389/main/github-user-contribution.svg)
 
 ----
 
