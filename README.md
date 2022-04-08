@@ -45,6 +45,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 ## Latest Post On Dev.to 🎯
 
 <!-- BLOG-POST-LIST:START -->
+- [My Visual Studio Code Extensions](https://dev.to/nivin378/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 
 
