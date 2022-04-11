@@ -30,7 +30,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 --- 
 <h3 align="left">Connect with me 😁</h3>
 <p align="left">
-<a href="https://dev.to/nivin345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nivin345" height="30" width="40" /></a>
+<a href="https://dev.to/nivin378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nivin345" height="30" width="40" /></a>
 <a href="https://twitter.com/nivin389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nivin389" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/930080426826010654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
 <a href="https://nivins.in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nivins.in" height="30" width="40" /></a>
