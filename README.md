@@ -55,11 +55,11 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 ## Github Pull / Issue Status ❗
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/khalby786/khalby786/issues/6) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
-2. 💪 Opened PR [#6](https://github.com/khalby786/khalby786/pull/6) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
-3. ❗️ Opened issue [#1](https://github.com/Milleneon/The-BL0G/issues/1) in [Milleneon/The-BL0G](https://github.com/Milleneon/The-BL0G)
-4. 🎉 Merged PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
-5. 💪 Opened PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
+1. 💪 Opened PR [#6](https://github.com/daniel-dominic/Daniel-Dominic/pull/6) in [daniel-dominic/Daniel-Dominic](https://github.com/daniel-dominic/Daniel-Dominic)
+2. 🗣 Commented on [#6](https://github.com/khalby786/khalby786/issues/6) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
+3. 💪 Opened PR [#6](https://github.com/khalby786/khalby786/pull/6) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
+4. ❗️ Opened issue [#1](https://github.com/Milleneon/The-BL0G/issues/1) in [Milleneon/The-BL0G](https://github.com/Milleneon/The-BL0G)
+5. 🎉 Merged PR [#1](https://github.com/MightyPlays/Tower-Siege/pull/1) in [MightyPlays/Tower-Siege](https://github.com/MightyPlays/Tower-Siege)
 <!--END_SECTION:activity-->
 
 ---
