@@ -49,8 +49,8 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 ## Github Pull / Issue Status ❗
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Nivin389/PortfolioWebsite/pull/2) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
-2. 💪 Opened PR [#2](https://github.com/Nivin389/Tower-Siege/pull/2) in [Nivin389/Tower-Siege](https://github.com/Nivin389/Tower-Siege)
+1. 🎉 Merged PR [#2](https://github.com/Nivin389/PortfolioWebsite/pull/2) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
+2. 💪 Opened PR [#2](https://github.com/Nivin389/PortfolioWebsite/pull/2) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
 3. ❗️ Opened issue [#1](https://github.com/Nivin389/Nivin389/issues/1) in [Nivin389/Nivin389](https://github.com/Nivin389/Nivin389)
 4. 💪 Opened PR [#6](https://github.com/khalby786/khalby786/pull/6) in [khalby786/khalby786](https://github.com/khalby786/khalby786)
 5. ❗️ Opened issue [#1](https://github.com/Milleneon/The-BL0G/issues/1) in [Milleneon/The-BL0G](https://github.com/Milleneon/The-BL0G)
