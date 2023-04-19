@@ -1,11 +1,14 @@
 ```
-_____.___.          __      __                                              ___    
-\__  |   |  ____   /  \    /  \_____     ______  ______ __ __ ______    /\  \  \   
- /   |   | /  _ \  \   \/\/   /\__  \   /  ___/ /  ___/|  |  \\____ \   \/   \  \  
- \____   |(  <_> )  \        /  / __ \_ \___ \  \___ \ |  |  /|  |_> >  /\    )  ) 
- / ______| \____/    \__/\  /  (____  //____  >/____  >|____/ |   __/   \/   /  /  
- \/                       \/        \/      \/      \/        |__|          /__/   
 
+$$\   $$\           $$\ $$\                 $$\      $$\                     $$\       $$\ 
+$$ |  $$ |          $$ |$$ |                $$ | $\  $$ |                    $$ |      $$ |
+$$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\        $$ |$$$\ $$ | $$$$$$\   $$$$$$\  $$ | $$$$$$$ |
+$$$$$$$$ |$$  __$$\ $$ |$$ |$$  __$$\       $$ $$ $$\$$ |$$  __$$\ $$  __$$\ $$ |$$  __$$ |
+$$  __$$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |      $$$$  _$$$$ |$$ /  $$ |$$ |  \__|$$ |$$ /  $$ |
+$$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |      $$$  / \$$$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |
+$$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ |\$$$$$$$ |
+\__|  \__| \_______|\__|\__| \______/       \__/     \__| \______/ \__|      \__| \_______|
+                                                                                           
 ```
 
 ---
@@ -14,9 +17,6 @@ _____.___.          __      __                                              ___
 <h3 align="center">
  Welcome to Nivin's Profile 👋
 </h3>
-
-
-
 
 
 Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown 
@@ -32,6 +32,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 <a href="https://dev.to/nivin378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nivin345" height="30" width="40" /></a>
 <a href="https://twitter.com/nivin389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nivin389" height="30" width="40" /></a>
 <a href="https://discord.com/users/957196694393614367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
+<a href="https://instagram.com/vin._.xil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin._.xil" height="30" width="40" /></a>
 
 ---
 
@@ -75,6 +76,6 @@ No activity tracked
 
 --- 
 
-#Spotify Playing 🎶
+# Spotify Playing 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
