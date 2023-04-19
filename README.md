@@ -23,7 +23,7 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
  - 🔭 I’m currently working on Community Projects and My Website
 - 🌱 I’m currently learning Java Script , ruby and Docker 
 - 💬 Ask me about App development and Game development  
-- 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/OfficialMightyP) me 
+- 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
 
 --- 
