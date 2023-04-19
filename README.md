@@ -50,11 +50,11 @@ Skills: JavaScript ,INDEX.HTML ,style.css ,Docker and Markdown
 ## Github Pull / Issue Status ❗
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
-2. 💪 Opened PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
-3. 🎉 Merged PR [#3](https://github.com/Nivin389/PortfolioWebsite/pull/3) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
-4. 💪 Opened PR [#3](https://github.com/Nivin389/PortfolioWebsite/pull/3) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
-5. 🎉 Merged PR [#2](https://github.com/Nivin389/PortfolioWebsite/pull/2) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
+1. ❗️ Closed issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+2. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+3. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+4. ❗️ Opened issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+5. 🎉 Merged PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
 <!--END_SECTION:activity-->
 
 ---
