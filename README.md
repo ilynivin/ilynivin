@@ -11,13 +11,6 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
                                                                                            
 ```
 
----
-
-
-<h3 align="center">
- Welcome to Nivin's Profile 👋
-</h3>
-
 ## 💫 About Me:
  - 🔭 I’m currently working on Community Projects and My Website
 - 🌱 I’m currently learning Java Script , ruby and Docker 
