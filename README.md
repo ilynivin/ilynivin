@@ -30,6 +30,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <a href="https://discord.com/users/957196694393614367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
 <a href="https://instagram.com/vin._.xil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin._.xil" height="30" width="40" /></a>
 
+ ---
   
  <details>
 <summary>⚡ Latest Post to Dev.to</summary>
