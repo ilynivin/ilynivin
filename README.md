@@ -30,14 +30,18 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <a href="https://discord.com/users/957196694393614367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
 <a href="https://instagram.com/vin._.xil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin._.xil" height="30" width="40" /></a>
 
-## Latest Post On Dev.to 🎯
-
+  
+ <details>
+<summary>⚡ Latest Post to Dev.to</summary>
+  
 <!-- BLOG-POST-LIST:START -->
 - [My Visual Studio Code Extensions](https://dev.to/nivin378/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
 
-## Github Pull / Issue Status ❗
+<details>
+<summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
@@ -46,8 +50,10 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 4. ❗️ Opened issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
 5. 🎉 Merged PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
 <!--END_SECTION:activity-->
+</details>
 
-## This Week i spend time on  ⌨️
+<details>
+<summary>⌨️ Yesturday I Spend time on</summary>
 
 <!--START_SECTION:waka-->
 
@@ -61,10 +67,17 @@ Other        36 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+</details>
 
-## 🐦 Latest Tweet
+<details>
+<summary>🐦 Latest Tweet</summary>
+
 [![](https://gtce.itsvg.in/api?username=Nivin389)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-# Spotify Playing 🎶
+</details>
+
+<details>
+<summary>🎶 Spotify Playing </summary>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
+</details>
