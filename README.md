@@ -51,8 +51,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <details>
 <summary> 📰 Live Blog Updates </summary>
 <!--START_SECTION:feed-->
-
-<!--END_SECTION:feed-->
+ <!--END_SECTION:feed-->
 </details>
 
 
