@@ -30,15 +30,31 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <a href="https://discord.com/users/957196694393614367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
 <a href="https://instagram.com/vin._.xil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin._.xil" height="30" width="40" /></a>
 
- ---
+<details>
+<summary>🔝 Top Contributed Repo</summary>
+
+![](https://github-contributor-stats.vercel.app/api?username=Nivin389&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+</details>
+
+
   
  <details>
-<summary>⚡ Latest Post to Dev.to</summary>
+<summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
 - [My Visual Studio Code Extensions](https://dev.to/nivin378/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
+
+
+<details>
+<summary> 📰 Live Blog Updates </summary>
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
+</details>
+
 
 
 <details>
@@ -59,12 +75,12 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-Markdown     2 hrs 57 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.99 %
-TOML         2 hrs 47 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.17 %
-HTML         1 hr 22 mins    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.91 %
-Other        39 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.53 %
+HTML         1 hr 12 mins    ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.78 %
+TOML         55 mins         ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.88 %
+Markdown     53 mins         ⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.10 %
+Other        36 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.23 %
 ```
 
 <!--END_SECTION:waka-->
@@ -82,3 +98,12 @@ Other        39 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
 </details>
+
+
+---
+<h3 align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Nivin389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=Nivin389&icon=0&color=5)](https://visitcount.itsvg.in)
+</h3>
