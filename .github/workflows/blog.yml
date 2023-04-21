@@ -1,18 +1,19 @@
-name: Add latest blog posts from blognivins
-
+name: Latest blog post workflow
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  push:
-    branches:
-      - master
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed-url: https://blognivins.netlify.app/index.xml
-          readme-section: feed
+          feed_list: "https://blognivins.netlify.app/index.xml"
