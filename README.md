@@ -43,7 +43,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [My Visual Studio Code Extensions](https://dev.to/nivin378/my-visual-studio-code-extensions-4fi7)
+- [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
