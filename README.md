@@ -104,5 +104,5 @@ Other        39 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ![](https://github-profile-trophy.vercel.app/?username=Nivin389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Nivin389&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
 </h3>
