@@ -15,4 +15,4 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://blognivins.netlify.app/index.xml
-          readme-section: feed 
+          readme-section: feed
