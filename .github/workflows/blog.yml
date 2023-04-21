@@ -1,14 +1,14 @@
-name: Rss to Readme
-
-on:
-  schedule:
-   - cron: '5 * * * *'
-
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://blognivins.netlify.app/index.xml
-          readme-section: feed
+name: BlogWebsite
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://blognivins.netlify.app/index.xml"
