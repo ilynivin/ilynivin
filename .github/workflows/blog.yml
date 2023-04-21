@@ -2,7 +2,7 @@ name: Rss to Readme
 
 on:
   schedule:
-   - cron: '0 * * * *'
+   - cron: '5 * * * *'
 
 jobs:
   update:
