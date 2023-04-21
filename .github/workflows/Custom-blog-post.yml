@@ -1,0 +1,18 @@
+name: Add latest blog posts from blognivins
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blognivins.netlify.app/index.xml
+          readme-section: feed 
