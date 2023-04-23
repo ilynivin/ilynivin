@@ -45,7 +45,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
+- [About me](https://blognivins.netlify.app/posts/aboutme/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
