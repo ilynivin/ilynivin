@@ -12,9 +12,9 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 ```
 
 ## 💫 About Me:
- - 🔭 I’m currently working on Community Projects and My Website
-- 🌱 I’m currently learning Java Script , ruby and Docker 
-- 💬 Ask me about App development and Game development  
+ - 🔭 I’m currently working on [Blog Site](https://github.com/Nivin389/Blog)  
+- 🌱 I’m currently learning [Astro.js](https://astro.build/) and [11ty](https://www.11ty.dev/)
+- ❓ Ask me about anything related [Hugo](https://gohugo.io/) and  Web development 
 - 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
 
