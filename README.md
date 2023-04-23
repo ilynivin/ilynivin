@@ -54,7 +54,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary> 📰 Live Blog Updates </summary>
   <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Blog-Web:START --><!-- Blog-Web:END -->
+  <!-- Blog-Web:START --><tr><td>About me</td><td>https://blognivins.netlify.app/posts/aboutme/</td></tr><!-- Blog-Web:END -->
   </table>
 </details>
 
