@@ -52,10 +52,10 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 
 <details>
 <summary> 📰 Live Blog Updates </summary>
-  
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+  <table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- Blog-Web:START --><!-- Blog-Web:END -->
+  </table>
 </details>
 
 
