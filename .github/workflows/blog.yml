@@ -1,14 +1,18 @@
-name: BlogWebsite
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://blognivins.netlify.app/index.xml"
+name: Latest Blog Post Web
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
+permissions:
+      contents: write
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "Blog-Web"
+          feed_list: "https://blognivins.netlify.app/index.xml"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
