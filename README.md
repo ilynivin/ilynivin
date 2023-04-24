@@ -12,9 +12,17 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 ```
 
 ## 💫 About Me:
- - 🔭 I’m currently working on [Blog Site](https://github.com/Nivin389/Blog)  
-- 🌱 I’m currently learning [Astro.js](https://astro.build/) and [11ty](https://www.11ty.dev/)
-- ❓ Ask me about anything related [Hugo](https://gohugo.io/) and  Web development 
+
+---
+
+<h3 align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=E6D940&width=438&lines=Hola+%2C+I+am+Nivin;A+Web+developer+%2C+App+developer;Interested+to+make+Blog++and+Portfolio+Sites++;Living+under+the+city+with+a+laptop;Hunting+Bugs+on+Github+;Contributing++On+Open+Source+Projects;You+can+Call+me+Nivin389+on+Github+%3AD)](https://git.io/typing-svg)
+</h3>
+
+ - 🔭 I’m currently working on Community Projects and My Website
+- 🌱 I’m currently learning Java Script , ruby and Docker 
+- 💬 Ask me about App development and Game development  
 - 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
 
@@ -45,7 +53,6 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Create Favicons for your website](https://dev.to/nivin389/create-favicons-for-your-website-4nid)
 - [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
@@ -55,7 +62,7 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary> 📰 Live Blog Updates </summary>
   <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Blog-Web:START --><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><tr><td>About me</td><td>https://blognivins.netlify.app/posts/aboutme/</td></tr><!-- Blog-Web:END -->
+  <!-- Blog-Web:START --><tr><td>About me</td><td>https://blognivins.netlify.app/posts/aboutme/</td></tr><!-- Blog-Web:END -->
   </table>
 </details>
 
@@ -79,23 +86,16 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
-Markdown     4 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.06 %
-TOML         3 hrs           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.94 %
-HTML         1 hr 22 mins    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.94 %
-YAML         49 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.15 %
-Other        39 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.69 %
+Markdown     3 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.49 %
+TOML         2 hrs 48 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.41 %
+HTML         1 hr 22 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.47 %
+YAML         46 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.59 %
+Other        39 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.42 %
 ```
 
 <!--END_SECTION:waka-->
-</details>
-
-<details>
-<summary>🐦 Latest Tweet</summary>
-
-[![](https://gtce.itsvg.in/api?username=Nivin389)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 </details>
 
 <details>
