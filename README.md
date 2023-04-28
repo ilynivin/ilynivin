@@ -72,11 +72,11 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
-2. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+1. 💪 Opened PR [#89](https://github.com/AlexFlipnote/GiveMeBadge/pull/89) in [AlexFlipnote/GiveMeBadge](https://github.com/AlexFlipnote/GiveMeBadge)
+2. ❗️ Closed issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
 3. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
-4. ❗️ Opened issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
-5. 🎉 Merged PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
+4. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+5. ❗️ Opened issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
 <!--END_SECTION:activity-->
 </details>
 
