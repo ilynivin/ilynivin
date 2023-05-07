@@ -58,7 +58,7 @@
 <summary> 📰 Live Blog Updates </summary>
   <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Blog-Web:START --><tr><td>Aboutme</td><td>https://blognivins.netlify.app/page/aboutme/</td></tr><tr><td>Create Cli Portfoilo</td><td>https://blognivins.netlify.app/posts/create-cli-portfoilo/</td></tr><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><!-- Blog-Web:END -->
+  <!-- Blog-Web:START --><tr><td>Create Cli Portfoilo</td><td>https://blognivins.netlify.app/posts/create-cli-portfoilo/</td></tr><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><tr><td>AboutMe</td><td>https://blognivins.netlify.app/page/aboutme/</td></tr><!-- Blog-Web:END -->
   </table>
 </details>
 <br><br>
