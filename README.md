@@ -7,24 +7,30 @@
 
 <br><br>
 
-### 💫 About Me:
+### <h5 align = "center"> 𝑨𝒃𝒐𝒖𝒕𝑴𝒆 😋 </h5>
 
 
-<h3 align="right">
+<h3 align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=E6D940&width=438&lines=Hola+%2C+I+am+Nivin;A+Web+developer+%2C+App+developer;Interested+to+make+Blog++and+Portfolio+Sites++;Living+under+the+city+with+a+laptop;Hunting+Bugs+on+Github+;Contributing++On+Open+Source+Projects;You+can+Call+me+Nivin389+on+Github+%3AD)](https://git.io/typing-svg)
 </h3>
 
- - 🔭 I’m currently working on Community Projects and My Blog
-- 🌱 I’m currently learning Java Script , ruby and Docker 
+<br><br>
+
+- 🔭 I’m currently working on [HackClub](https://github.com/hackclub) and [MyBlog](https://github.com/Nivin389/Blog)
+- 🌱 I’m currently learning [Astro.js](https://astro.build) , [Tailwind.css](https://tailwindcss.com/)
 - 💬 Ask me about App development and Game development  
-- 📫 How to reach me: [Discord Server](https://discord.gg/YWsCyzecDR) , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
+- 📫 How to reach me: [Discord Server](https://discord.gg/YWsCyzecDR) , E-Mail or you can [tweet](https://twitter.com/Nivin389).
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
 
-# 💻 Tech Stack:
+
+
+
+
+# 💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat-square&logo=glitch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## 🌐 Socials:
+## 🌐 𝙎𝙤𝙘𝙞𝙖𝙡𝙨:
 
 <h3 align="left"></h3>
 <p align="left">
@@ -36,7 +42,7 @@
 
   
 
- ## Github Status ⚙
+ ## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒖𝒔 ⚙
 
  <details>
 <summary>⚡Latest Post to Dev.to</summary>
@@ -95,12 +101,17 @@ JSON         14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
 </details>
 
+<br><br>
+
+## 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 😘:
 
 
+<p><a href="https://www.buymeacoffee.com/Nivins"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nivin s" /></a></p><br><br>
 
 
+<br><br>
 
-<h2 align="center">Github Trophy 🏆</h2>
+<h2 align="center">𝙂𝙞𝙩𝙝𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙮 🏆</h2>
 
 <br><br>
 <h3 align="left">
