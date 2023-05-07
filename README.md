@@ -9,7 +9,6 @@
 
 ## 💫 About Me:
 
----
 
 <h3 align="right">
 
@@ -34,7 +33,7 @@
 <a href="https://discord.com/users/957196694393614367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/930080426826010654" height="30" width="40" /></a>
 <a href="https://instagram.com/vin._.xil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin._.xil" height="30" width="40" /></a>
 
----
+
   
 
  ## Github Status ⚙
@@ -43,7 +42,6 @@
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Create Favicons for your website](https://dev.to/nivin389/create-favicons-for-your-website-4nid)
 - [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
@@ -97,7 +95,7 @@ Other        39 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </details>
 
 
----
+
 
 
 
