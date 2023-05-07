@@ -42,6 +42,7 @@
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Create Favicons for your website](https://dev.to/nivin389/create-favicons-for-your-website-4nid)
 - [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
