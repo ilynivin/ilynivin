@@ -1,13 +1,13 @@
 <h1 align = "center">
 
-![](Banner/banner.png)
+![](header.png)
 
 
 </h1>
 
 <br><br>
 
-## 💫 About Me:
+### 💫 About Me:
 
 
 <h3 align="right">
