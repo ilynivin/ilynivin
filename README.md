@@ -1,28 +1,25 @@
-```
+<h1 align = "center">
 
-$$\   $$\           $$\ $$\                 $$\      $$\                     $$\       $$\ 
-$$ |  $$ |          $$ |$$ |                $$ | $\  $$ |                    $$ |      $$ |
-$$ |  $$ | $$$$$$\  $$ |$$ | $$$$$$\        $$ |$$$\ $$ | $$$$$$\   $$$$$$\  $$ | $$$$$$$ |
-$$$$$$$$ |$$  __$$\ $$ |$$ |$$  __$$\       $$ $$ $$\$$ |$$  __$$\ $$  __$$\ $$ |$$  __$$ |
-$$  __$$ |$$$$$$$$ |$$ |$$ |$$ /  $$ |      $$$$  _$$$$ |$$ /  $$ |$$ |  \__|$$ |$$ /  $$ |
-$$ |  $$ |$$   ____|$$ |$$ |$$ |  $$ |      $$$  / \$$$ |$$ |  $$ |$$ |      $$ |$$ |  $$ |
-$$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ |\$$$$$$$ |
-\__|  \__| \_______|\__|\__| \______/       \__/     \__| \______/ \__|      \__| \_______|
-                                                                                           
-```
+![](Banner/banner.png)
+
+
+</h1>
+
+<br><br>
 
 ## 💫 About Me:
 
+---
 
-<h3 align="left">
+<h3 align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=E6D940&width=438&lines=Hola+%2C+I+am+Nivin;A+Web+developer+%2C+App+developer;Interested+to+make+Blog++and+Portfolio+Sites++;Living+under+the+city+with+a+laptop;Hunting+Bugs+on+Github+;Contributing++On+Open+Source+Projects;You+can+Call+me+Nivin389+on+Github+%3AD)](https://git.io/typing-svg)
 </h3>
 
- - 🔭 I’m currently working on Community Projects and My Website
+ - 🔭 I’m currently working on Community Projects and My Blog
 - 🌱 I’m currently learning Java Script , ruby and Docker 
 - 💬 Ask me about App development and Game development  
-- 📫 How to reach me: Discord , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
+- 📫 How to reach me: [Discord Server](https://discord.gg/YWsCyzecDR) , E-Mail or you can [tweet](https://twitter.com/Nivin389) me 
 - ⚡ Fun fact: I like to Make my App and Love to eat ! 🍉
 
 # 💻 Tech Stack:
@@ -39,46 +36,39 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 
 ---
   
-<details>
-<summary>🔝 Top Contributed Repo</summary>
 
-![](https://github-contributor-stats.vercel.app/api?username=Nivin389&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+ ## Github Status ⚙
 
-</details>
-
-
-  
  <details>
 <summary>⚡Latest Post to Dev.to</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [Create Favicons for your website](https://dev.to/nivin389/create-favicons-for-your-website-4nid)
 - [My Visual Studio Code Extensions](https://dev.to/nivin389/my-visual-studio-code-extensions-4fi7)
 <!-- BLOG-POST-LIST:END -->
 </details>
-
+<br><br>
 
 <details>
 <summary> 📰 Live Blog Updates </summary>
   <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Blog-Web:START --><tr><td>Aboutme</td><td>https://blognivins.netlify.app/page/aboutme/</td></tr><tr><td>Create Cli Portfoilo</td><td>https://blognivins.netlify.app/posts/create-cli-portfoilo/</td></tr><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><!-- Blog-Web:END -->
+  <!-- Blog-Web:START --><tr><td>About me</td><td>https://blognivins.netlify.app/posts/aboutme/</td></tr><!-- Blog-Web:END -->
   </table>
 </details>
-
-
+<br><br>
 
 <details>
 <summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#760](https://github.com/hackclub/dinosaurs/issues/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 💪 Opened PR [#762](https://github.com/hackclub/dinosaurs/pull/762) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. ❌ Closed PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 💪 Opened PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. ❗️ Closed issue [#1](https://github.com/Nivin389/Blog/issues/1) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+1. ❗️ Closed issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+2. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+3. 🗣 Commented on [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+4. ❗️ Opened issue [#1](https://github.com/Nivin389/Calculator/issues/1) in [Nivin389/Calculator](https://github.com/Nivin389/Calculator)
+5. 🎉 Merged PR [#4](https://github.com/Nivin389/PortfolioWebsite/pull/4) in [Nivin389/PortfolioWebsite](https://github.com/Nivin389/PortfolioWebsite)
 <!--END_SECTION:activity-->
 </details>
+<br><br>
 
 <details>
 <summary>⌨️ Yesturday I Spend time on</summary>
@@ -86,17 +76,18 @@ $$ |  $$ |\$$$$$$$\ $$ |$$ |\$$$$$$  |      $$  /   \$$ |\$$$$$$  |$$ |      $$ 
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 April 2023 - To: 06 May 2023
+From: 15 April 2023 - To: 22 April 2023
 
-HTML         2 hrs 14 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.12 %
-Markdown     1 hr 36 mins    ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.64 %
-JavaScript   1 hr 12 mins    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.00 %
-TOML         37 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.46 %
-JSON         14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.90 %
+Markdown     3 hrs 26 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.49 %
+TOML         2 hrs 48 mins   ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.41 %
+HTML         1 hr 22 mins    ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.47 %
+YAML         46 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.59 %
+Other        39 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.42 %
 ```
 
 <!--END_SECTION:waka-->
 </details>
+<br><br>
 
 <details>
 <summary>🎶 Spotify Playing </summary>
@@ -106,9 +97,23 @@ JSON         14 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 ---
-<h3 align="center">
+
+
+
+<h2 align="center">Github Trophy 🏆</h2>
+
+<br><br>
+<h3 align="left">
 
 ![](https://github-profile-trophy.vercel.app/?username=Nivin389&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
 </h3>
+
+
+<br><br>
+
+<h4 align = "center">
+
+[![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+</h4>
