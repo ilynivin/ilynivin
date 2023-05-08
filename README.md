@@ -1,6 +1,6 @@
-<h1 align = "center">
+<h1 align = "slight left">
 
-![](header.png)
+![](head.png)
 
 
 </h1>
