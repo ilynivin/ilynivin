@@ -58,7 +58,7 @@
 <summary> 📰 Live Blog Updates </summary>
   <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- Blog-Web:START --><tr><td>Fan Arts</td><td>https://blognivins.netlify.app/posts/fan-arts/</td></tr><tr><td>HackClub Dino</td><td>https://blognivins.netlify.app/posts/hackclub-dino/</td></tr><tr><td>Create Cli Portfoilo</td><td>https://blognivins.netlify.app/posts/create-cli-portfoilo/</td></tr><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><tr><td>AboutMe</td><td>https://blognivins.netlify.app/page/aboutme/</td></tr><!-- Blog-Web:END -->
+  <!-- Blog-Web:START --><tr><td>HackClub Dino</td><td>https://blognivins.netlify.app/posts/hackclub-dino/</td></tr><tr><td>Create Cli Portfoilo</td><td>https://blognivins.netlify.app/posts/create-cli-portfoilo/</td></tr><tr><td>Create Favicons for your website</td><td>https://blognivins.netlify.app/posts/favicon/</td></tr><tr><td>About Me</td><td>https://blognivins.netlify.app/page/aboutme/</td></tr><tr><td>Fanarts</td><td>https://blognivins.netlify.app/page/fanarts/</td></tr><!-- Blog-Web:END -->
   </table>
 </details>
 <br><br>
