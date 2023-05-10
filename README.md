@@ -67,11 +67,11 @@
 <summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#760](https://github.com/hackclub/dinosaurs/issues/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 💪 Opened PR [#762](https://github.com/hackclub/dinosaurs/pull/762) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. ❌ Closed PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 💪 Opened PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. ❗️ Closed issue [#1](https://github.com/Nivin389/Blog/issues/1) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+1. 💪 Opened PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+2. 🗣 Commented on [#760](https://github.com/hackclub/dinosaurs/issues/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 💪 Opened PR [#762](https://github.com/hackclub/dinosaurs/pull/762) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+4. ❌ Closed PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+5. 💪 Opened PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 </details>
 <br><br>
