@@ -67,11 +67,11 @@
 <summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
-2. 💪 Opened PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
-3. 🗣 Commented on [#760](https://github.com/hackclub/dinosaurs/issues/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. 💪 Opened PR [#762](https://github.com/hackclub/dinosaurs/pull/762) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-5. ❌ Closed PR [#760](https://github.com/hackclub/dinosaurs/pull/760) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+1. 🎉 Merged PR [#4](https://github.com/Nivin389/Blog/pull/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+2. 🗣 Commented on [#4](https://github.com/Nivin389/Blog/issues/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+3. 🗣 Commented on [#4](https://github.com/Nivin389/Blog/issues/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+4. 🎉 Merged PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+5. 💪 Opened PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
 <!--END_SECTION:activity-->
 </details>
 <br><br>
