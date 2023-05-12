@@ -67,11 +67,11 @@
 <summary>❗ Status</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Nivin389/Blog/pull/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
-2. 🗣 Commented on [#4](https://github.com/Nivin389/Blog/issues/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+1. 💪 Opened PR [#67498](https://github.com/firstcontributions/first-contributions/pull/67498) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🎉 Merged PR [#4](https://github.com/Nivin389/Blog/pull/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
 3. 🗣 Commented on [#4](https://github.com/Nivin389/Blog/issues/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
-4. 🎉 Merged PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
-5. 💪 Opened PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+4. 🗣 Commented on [#4](https://github.com/Nivin389/Blog/issues/4) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
+5. 🎉 Merged PR [#2](https://github.com/Nivin389/Blog/pull/2) in [Nivin389/Blog](https://github.com/Nivin389/Blog)
 <!--END_SECTION:activity-->
 </details>
 <br><br>
