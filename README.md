@@ -45,7 +45,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivin389&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilynivin&show_icons=true&theme=dracula)" height="150" alt="stats graph"  />
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
