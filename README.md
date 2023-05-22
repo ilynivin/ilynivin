@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/XUxVeuGQh_EAAAAC/given-mafuyu.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif"  />
 
 ###
 
