@@ -50,6 +50,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=novatorem&bar_color=1c52f2)](https://spotify-github-profile.vercel.app/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
 </details>
+  
+<div><div>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ![](https://github-profile-trophy.vercel.app/?username=ilynivin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
