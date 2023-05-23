@@ -54,6 +54,13 @@
 <div><div>
   
 <!--START_SECTION:waka-->
+
+```text
+Markdown     1 hr 47 mins    ;;;;;;-------------------   24.17 %
+C            1 hr 38 mins    ;;;;;;-------------------   22.19 %
+YAML         1 hr 36 mins    ;;;;;--------------------   21.58 %
+```
+
 <!--END_SECTION:waka-->
 
 
