@@ -13,6 +13,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: -;
+          BLOCKS: :>
           SHOW_TIME: True
           LANG_COUNT: 3
