@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nivin. I Love Bots </h2>
+<h2 align="left">Hi 👋! My name is Nivin. Interested to Work Together </h2>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/57Vi.gif"/>
+<img align="right" height="150" src="https://media.tenor.com/iUNvqUmWx04AAAAM/smoking-anime.gif"/>
 
 ###
 
@@ -66,13 +66,8 @@ Markdown     1 hr 11 mins    >>>::::::::::::::::::::::   10.76 %
 
 ![](https://github-profile-trophy.vercel.app/?username=ilynivin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+  
+  
+ [![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
-
----
-
-
-<h4 align = "center">
-
-[![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-</h4>
