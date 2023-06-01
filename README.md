@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nivin and I'm a Web Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Nivin. I Love Bots </h2>
 
 ###
 
-<img align="right" height="150" src="https://gifdb.com/images/high/anime-boy-waving-hello-offsxsk3obu7ngkt.gif"  />
+<img align="right" height="150" src="https://i.gifer.com/57Vi.gif"/>
 
 ###
 
@@ -24,7 +24,7 @@
   <a href="https://twitter.com/Nivin389" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/vin._.xil/" target="_blank">
+  <a href="https://www.instagram.com/nivinvysakh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://dev.to/nivin389" target="_blank">
