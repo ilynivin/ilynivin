@@ -55,10 +55,10 @@
   
 <!--START_SECTION:waka-->
 
-```text
-Python       7 hrs 20 mins   >>>>>>>>>>>>>>>>>::::::::   67.66 %
-Markdown     1 hr 19 mins    >>>::::::::::::::::::::::   12.15 %
-JavaScript   1 hr 15 mins    >>>::::::::::::::::::::::   11.52 %
+```txt
+Python       3 hrs           >>>>>>>>>>>>:::::::::::::   48.58 %
+Markdown     1 hr 19 mins    >>>>>::::::::::::::::::::   21.27 %
+JavaScript   1 hr 15 mins    >>>>>::::::::::::::::::::   20.16 %
 ```
 
 <!--END_SECTION:waka-->
