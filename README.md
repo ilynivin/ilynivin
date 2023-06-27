@@ -79,6 +79,7 @@
 <summary>😳 Github Status</summary>
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -106,7 +107,7 @@ Text       0 secs          :::::::::::::::::::::::::   00.55 %
 
 </details>
 
----
+
 
 *Inspired from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)* 
 
