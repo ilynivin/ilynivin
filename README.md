@@ -80,6 +80,12 @@
 
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+2. 💪 Opened PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+3. 🚀 Published release [Minor Changes 🔥](https://github.com/Minor Changes 🔥) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+4. 🚀 Published release [More Changes !](https://github.com/More Changes !) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+5. 🚀 Published release [Initial Release ](https://github.com/Initial Release ) in [Xelyer/XelyerSite](https://github.com/Xelyer/XelyerSite)
+<!--END_SECTION:activity-->
 
 
 </details>
