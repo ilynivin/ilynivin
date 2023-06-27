@@ -83,6 +83,13 @@
 <summary>👓 Work Status</summary>
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   54 mins         >>>>>>>>>>>>>>>>>>>>:::::   78.65 %
+YAML       14 mins         >>>>>::::::::::::::::::::   20.80 %
+Text       0 secs          :::::::::::::::::::::::::   00.55 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
