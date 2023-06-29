@@ -1,7 +1,8 @@
-# Hi there, I'm [Nivin]() 🤟
+# Hi there, I'm [Nivin](https://nivins.in/) 🤟
 
 ## I am a High School Hacker. Code Fan !
 
+- 😁 Currently Working on [Medainbot](https://github.com/Medain-NFT)
 - 🔭 Check out my [Xelyer Discord Bot]()
 - 🌱 I’m currently learning Python 🤣
 - 👯 I’m looking to collaborate with other Young Devalopers
