@@ -84,8 +84,8 @@
 1. 🎉 Merged PR [#1](https://github.com/Medain-NFT/MedainBot/pull/1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
 2. 🎉 Merged PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 3. 💪 Opened PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-4. 🚀 Published release [Minor Changes 🔥](https://github.com/Minor Changes 🔥) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-5. 🚀 Published release [More Changes !](https://github.com/More Changes !) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+4. 🚀 Published release [Minor Changes 🔥](https://github.com/Xelyer/Xelyerbot/releases/tag/V5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+5. 🚀 Published release [More Changes !](https://github.com/Xelyer/Xelyerbot/releases/tag/V4) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 <!--END_SECTION:activity-->
 
 
