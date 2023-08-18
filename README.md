@@ -81,11 +81,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [New Changes !](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-2. 🚀 Published release [Intatal Release](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.0) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-3. 🎉 Merged PR [#1](https://github.com/Medain-NFT/MedainBot/pull/1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-4. 🎉 Merged PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-5. 💪 Opened PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+1. 🚀 Published release [Change Log of V1.0.2](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.2) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
+2. 🚀 Published release [New Changes !](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
+3. 🚀 Published release [Intatal Release](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.0) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
+4. 🎉 Merged PR [#1](https://github.com/Medain-NFT/MedainBot/pull/1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
+5. 🎉 Merged PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 <!--END_SECTION:activity-->
 
 
