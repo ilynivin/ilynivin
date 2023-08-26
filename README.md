@@ -98,9 +98,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     28 mins         >>>>>>>>>>>>>>>>>>:::::::   70.96 %
-HTML       10 mins         >>>>>>:::::::::::::::::::   25.89 %
-Markdown   1 min           >::::::::::::::::::::::::   03.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
