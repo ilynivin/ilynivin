@@ -98,7 +98,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python           1 hr 7 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   99.36 %
+ActionScript 3   0 secs          :::::::::::::::::::::::::   00.64 %
 ```
 
 <!--END_SECTION:waka-->
