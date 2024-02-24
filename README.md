@@ -98,7 +98,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML     5 mins          >>>>>>>>>>>>>>>>>::::::::   69.06 %
+YAML     1 min           >>>>:::::::::::::::::::::   15.72 %
+Python   1 min           >>>>:::::::::::::::::::::   15.23 %
 ```
 
 <!--END_SECTION:waka-->
