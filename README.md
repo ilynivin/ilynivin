@@ -81,11 +81,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
-2. 🚀 Published release [New Changes !](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-3. 🚀 Published release [Intatal Release](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.0) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-4. 🎉 Merged PR [#1](https://github.com/Medain-NFT/MedainBot/pull/1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
-5. 🎉 Merged PR [#5](https://github.com/Xelyer/Xelyerbot/pull/5) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+1. 🚀 Published release [2024 Update](https://github.com/ilynivin/Website/releases/tag/UP2024) in [ilynivin/Website](https://github.com/ilynivin/Website)
+2. 🎉 Merged PR [#5](https://github.com/ilynivin/Website/pull/5) in [ilynivin/Website](https://github.com/ilynivin/Website)
+3. 💪 Opened PR [#5](https://github.com/ilynivin/Website/pull/5) in [ilynivin/Website](https://github.com/ilynivin/Website)
+4. 🎉 Merged PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
+5. 💪 Opened PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
 <!--END_SECTION:activity-->
 
 
