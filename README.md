@@ -81,7 +81,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Change Log of V1.0.2](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.2) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
+1. 💪 Opened PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
 2. 🚀 Published release [New Changes !](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
 3. 🚀 Published release [Intatal Release](https://github.com/Medain-NFT/MedainBot/releases/tag/V1.0.0) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
 4. 🎉 Merged PR [#1](https://github.com/Medain-NFT/MedainBot/pull/1) in [Medain-NFT/MedainBot](https://github.com/Medain-NFT/MedainBot)
