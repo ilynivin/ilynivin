@@ -98,9 +98,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML       13 mins         >>>>>>>>>>>>>>>>>>>>>>>>:   94.03 %
-Markdown   0 secs          >::::::::::::::::::::::::   04.87 %
-Other      0 secs          :::::::::::::::::::::::::   01.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
