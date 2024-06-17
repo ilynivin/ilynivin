@@ -1,4 +1,4 @@
-# Hi there, I'm [Nivin](https://nivins.in/) 🤟
+# Hi there, I'm [Nivin](https://nivins.netlify.app/) 🤟
 
 ## I am a High School Hacker. Code Fan !
 
