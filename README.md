@@ -98,8 +98,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   48 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.86 %
-Other    0 secs          :::::::::::::::::::::::::   00.14 %
+Python   6 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
