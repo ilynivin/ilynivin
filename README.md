@@ -81,10 +81,10 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ilynivin/PySpeed/pull/1#issuecomment-2660795811) in [ilynivin/PySpeed](https://github.com/ilynivin/PySpeed)
-2. 🎉 Merged PR [#1](https://github.com/ilynivin/PySpeed/pull/1) in [ilynivin/PySpeed](https://github.com/ilynivin/PySpeed)
-3. 💪 Opened PR [#5](https://github.com/ilynivin/Website/pull/5) in [ilynivin/Website](https://github.com/ilynivin/Website)
-4. 🎉 Merged PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
+1. 🎉 Merged PR [#6](https://github.com/ilynivin/Website/pull/6) in [ilynivin/Website](https://github.com/ilynivin/Website)
+2. 💪 Opened PR [#6](https://github.com/ilynivin/Website/pull/6) in [ilynivin/Website](https://github.com/ilynivin/Website)
+3. 🗣 Commented on [#1](https://github.com/ilynivin/PySpeed/pull/1#issuecomment-2660795811) in [ilynivin/PySpeed](https://github.com/ilynivin/PySpeed)
+4. 🎉 Merged PR [#1](https://github.com/ilynivin/PySpeed/pull/1) in [ilynivin/PySpeed](https://github.com/ilynivin/PySpeed)
 5. 💪 Opened PR [#4](https://github.com/ilynivin/Website/pull/4) in [ilynivin/Website](https://github.com/ilynivin/Website)
 <!--END_SECTION:activity-->
 
