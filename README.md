@@ -81,11 +81,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Minor Release  ⚙️](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.1.0) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-2. 🚀 Published release [Minor Release  ⚙️](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.1.0) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-3. 🎉 Merged PR [#7](https://github.com/Xelyer/Xelyerbot/pull/7) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-4. 💪 Opened PR [#7](https://github.com/Xelyer/Xelyerbot/pull/7) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-5. 🚀 Published release [🚀 Xelyer Bot v6.0.0 - Major Update Release 🚀](https://github.com/Xelyer/Xelyerbot/releases/tag/V6) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+1. 🚀 Published release [Xelyer v6.0.2: App Commands Live! 🚀](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.0.2) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+2. 🎉 Merged PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+3. 💪 Opened PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+4. 🚀 Published release [Minor Release  ⚙️](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.1.0) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
+5. 🚀 Published release [Minor Release  ⚙️](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.1.0) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 <!--END_SECTION:activity-->
 
 
