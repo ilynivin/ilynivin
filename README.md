@@ -81,7 +81,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2141](https://github.com/pytube/pytube/issues/2141#issuecomment-2781429037) in [pytube/pytube](https://github.com/pytube/pytube)
+1. ❌ Closed PR [#940](https://github.com/hoodiehq/hoodie/pull/940) in [hoodiehq/hoodie](https://github.com/hoodiehq/hoodie)
 2. ❗ Opened issue [#2141](https://github.com/pytube/pytube/issues/2141) in [pytube/pytube](https://github.com/pytube/pytube)
 3. 🎉 Merged PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 4. 💪 Opened PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
