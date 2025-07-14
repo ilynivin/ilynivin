@@ -59,11 +59,11 @@
 
 ## 📕 Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Top 4 Visual Studio Code Extensions](https://bizarro.dev.to/nivincantake/top-4-visual-studio-code-extensions-4hno)
-- [Switch To Astro](https://bizarro.dev.to/nivincantake/switch-to-astro-1ga3)
-- [Introduction to React: A Beginner&#39;s Guide](https://bizarro.dev.to/nivincantake/introduction-to-react-a-beginners-guide-2ek7)
-- [Static Site Vs Dynamic Site](https://bizarro.dev.to/nivincantake/static-site-vs-dynamic-site-44n2)
-- [Build your own Discord Chat GPT Bot.](https://bizarro.dev.to/nivincantake/create-discord-bot-with-chatgpt-5jp)
+- [Top 4 Visual Studio Code Extensions](https://dev.to/nivincantake/top-4-visual-studio-code-extensions-4hno)
+- [Switch To Astro](https://dev.to/nivincantake/switch-to-astro-1ga3)
+- [Introduction to React: A Beginner&#39;s Guide](https://dev.to/nivincantake/introduction-to-react-a-beginners-guide-2ek7)
+- [Static Site Vs Dynamic Site](https://dev.to/nivincantake/static-site-vs-dynamic-site-44n2)
+- [Build your own Discord Chat GPT Bot.](https://dev.to/nivincantake/create-discord-bot-with-chatgpt-5jp)
 <!-- BLOG-POST-LIST:END -->
 ---
 
