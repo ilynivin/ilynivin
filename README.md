@@ -32,7 +32,7 @@
 
 <!--START_SECTION:activity-->
 
----
+
 
 ### 🎵 Spotify (Recently Played)
 
