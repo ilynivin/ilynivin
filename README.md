@@ -32,10 +32,11 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilynivin&theme=dracula&area=true&hide_border=true)
 
-
-
-### 🎵 Spotify (Recently Played)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
+<p align="left"> 
+  <i>🏍️🏁 (⌐■_■) </i>
+</p>
+<p align="right">
+  <i>✨🌟 (～￣▽￣)～</i>
+</p>
 
 </div>
