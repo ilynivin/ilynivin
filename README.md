@@ -1,125 +1,37 @@
-# Hi there, I'm [Nivin](https://nivins.netlify.app/) 🤟
+<div align="center">
 
-## I am a High School Hacker. Code Fan !
+<table>
+  <tr>
+    <td align="left" width="65%">
+      <h4>Hello there 👋</h4>
+      <h3>A Future DevOps & Platform Engineer</h3>
+      <p><i>Automating the world, one pipeline at a time.</i></p>
+      <blockquote>
+        🏗️ <b>Focus:</b> Infrastructure as Code & CI/CD <br>
+        ☁️ <b>Cloud:</b> AWS (Learning) • Docker • Kubernetes <br>
+        🐍 <b>Scripting:</b> Python • Bash • SQL <br> 
+        🏍️ <b>Vibe:</b> S1000RR Enthusiast <br>
+        🌱 <b>Learning:</b> Terraform & Cloud Automation
+      </blockquote>
+      <br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,linux,py,mysql" />
+      <br><br>
 
-- 😁 Currently Working on [Medainbot](https://github.com/Medain-NFT)
-- 🔭 Check out my [Xelyer Discord Bot]()
-- 🌱 I’m currently learning Python 🤣
-- 👯 I’m looking to collaborate with other Young Devalopers
-- 🥅 2022 Goals: Create a Blog Site
-- ⚡ Fun fact: I love to Troll 🎭
+  </td>
+    <td width="35%" align="center">
+      <img src="https://c.tenor.com/25ykirk3P4YAAAAd/tenor.gif" width="100%" style="border-radius:10px;">
+    </td>
+  </tr>
+</table>
 
-### Connect with me:
-
-<div align="left">
-  <a href="https://discord.gg/bT8jhUykVS" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/nivinvysakh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://dev.to/nivincantake" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://codepen.io/Nivin389" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  </a>
-  <a href="https://twitter.com/Nivin389" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-<br>
-
-### Languages :
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-<br />
-<br />
-
-
-## 📕 Blogs
-<!-- BLOG-POST-LIST:START -->
-- [Top 4 Visual Studio Code Extensions](https://dev.to/nivincantake/top-4-visual-studio-code-extensions-4hno)
-- [Switch To Astro](https://dev.to/nivincantake/switch-to-astro-1ga3)
-- [Introduction to React: A Beginner&#39;s Guide](https://dev.to/nivincantake/introduction-to-react-a-beginners-guide-2ek7)
-- [Static Site Vs Dynamic Site](https://dev.to/nivincantake/static-site-vs-dynamic-site-44n2)
-- [Build your own Discord Chat GPT Bot.](https://dev.to/nivincantake/create-discord-bot-with-chatgpt-5jp)
-<!-- BLOG-POST-LIST:END -->
----
-
-
-<details>
-  <summary>🌑 Daily.dev</summary>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ilynivin/ilynivin/blob/main/devcard.svg" width="400" alt="Nivin's Dev Card"/></a>
-
-
-</details>
-
-<details>
-<summary>😳 Github Status</summary>
-
-
+### 🚀 Automation Pipeline (Recent Activity)
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#940](https://github.com/hoodiehq/hoodie/pull/940) in [hoodiehq/hoodie](https://github.com/hoodiehq/hoodie)
-2. ❗ Opened issue [#2141](https://github.com/pytube/pytube/issues/2141) in [pytube/pytube](https://github.com/pytube/pytube)
-3. 🎉 Merged PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-4. 💪 Opened PR [#8](https://github.com/Xelyer/Xelyerbot/pull/8) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
-5. 🚀 Published release [Minor Release  ⚙️](https://github.com/Xelyer/Xelyerbot/releases/tag/v6.1.0) in [Xelyer/Xelyerbot](https://github.com/Xelyer/Xelyerbot)
 <!--END_SECTION:activity-->
 
+---
 
-</details>
+### 🎵 Spotify (Recently Played)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j0u77uc3cgfpkknhv10c3v32o&redirect=true)
 
-<details>
-<summary>👓 Work Status</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</details>
-
-<details>
-<summary>💀 Holopin</summary>
-
-[![An image of @ilynivin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ilynivin)](https://holopin.io/@ilynivin)
-
-</details>
-
-
-
-*Inspired from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)* 
-
-<h3 align = center>
-
-[![](https://visitcount.itsvg.in/api?id=Nivin389&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
-</h3>
-
-
+</div>
