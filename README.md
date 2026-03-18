@@ -25,7 +25,9 @@
 </table>
 
 ### 🚀 Automation Pipeline (Recent Activity)
+
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
